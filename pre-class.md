@@ -20,7 +20,7 @@ In basic SQL, we ask simple questions: "Show me all clients."
 In advanced SQL, we ask analytical questions: "Show me the top 10% of clients based on their insurance claim history compared to their peers in the same city."
 
 ## **Watch this video:** 
-https://youtu.be/mJGjUi_XvXc
+[Advanced SQL Detective Kit](https://youtu.be/mJGjUi_XvXc)
 
 ### **Self-Study Task:**
 
