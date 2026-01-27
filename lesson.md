@@ -69,8 +69,8 @@ SUMMARIZE address;
 
 >In practice, the output typically includes:
 >
-> - For numeric columns (like `id`), it shows stats such as `min`, `max`, `avg`, `stddev`, and `approx_unique` (estimated distinct count). [codingsight](https://codingsight.com/calculating-running-total-with-over-clause-and-partition-by-clause-in-sql-server/)  
-> - For text columns (like `country`, `state`, `city`), it usually skips numeric-only stats but still gives `min`/`max` (lexicographically) and `approx_unique`, so you can see “how many different values” appear in that column. [learnsql](https://learnsql.com/blog/what-is-a-running-total-and-how-to-compute-it-in-sql/)
+> - For numeric columns (like `id`), it shows stats such as `min`, `max`, `avg`, `stddev`, and `approx_unique` (estimated distinct count). 
+> - For text columns (like `country`, `state`, `city`), it usually skips numeric-only stats but still gives `min`/`max` (lexicographically) and `approx_unique`, so you can see “how many different values” appear in that column. 
 
 **Exercise 1:** 
 
